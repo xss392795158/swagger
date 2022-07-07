@@ -16,7 +16,7 @@
     "babel-polyfill": "^6.26.0",
     "ejs": "^2.6.2",
     "jquery": "^3.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react-redux": "^7.1.0",
     "react-router-dom": "^5.0.1",
     "redux": "^4.0.4",
